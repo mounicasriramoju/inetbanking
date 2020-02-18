@@ -36,7 +36,7 @@ public class Tc_LoginTest_001 extends BaseClass
 		else
 		{
 			Assert.assertTrue(false);
-			logger.info("Login test failed");
+			logger.info("Login test failed.");
 		}
 		
 	}
