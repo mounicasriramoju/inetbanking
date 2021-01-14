@@ -49,7 +49,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
-			<version>3.16-beta2</version>
+			<version>3.17</version>
 		</dependency>
 
 
@@ -82,7 +82,7 @@ xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
 		<dependency>
 			<groupId>org.apache.poi</groupId>
 			<artifactId>poi</artifactId>
-			<version>3.9</version>
+			<version>3.17</version>
 		</dependency>
 		<dependency>
 			<groupId>org.apache.poi</groupId>
